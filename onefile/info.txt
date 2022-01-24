@@ -1,0 +1,1 @@
+переустановить бд и внутри неё применить команду в запроснике(query tool) CREATE EXTENSION pgcrypto
